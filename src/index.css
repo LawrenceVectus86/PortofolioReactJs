@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+* {
+  font-family: 'Bespoke Stencil', sans-serif;
+  scroll-behavior: smooth;
+}
+
+html {
+  background-color: black;
+}
