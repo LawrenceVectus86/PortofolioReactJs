@@ -24,6 +24,7 @@ export const LINKS = [
   { id: "projects1", name: "Certificate"},
   { id: "projects", name: "projects" },
   { id: "about", name: "about" },
+  { id: "tools", name: "tools" },
   { id: "experience", name: "experience" },
   { id: "contact", name: "Contact" },
 ];

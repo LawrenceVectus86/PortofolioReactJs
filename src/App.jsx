@@ -8,6 +8,7 @@ import Work from "./components/Work"
 import Contact from "./components/Contact"
 import IconToTop from "./components/iconToTop"
 import Projects1 from "./components/Projects1"
+import Tools from "./components/Tools"
 
 const App = () => {
   return (
@@ -18,6 +19,7 @@ const App = () => {
       <Projects1/>
       <Projects/>
       <About/>
+      <Tools/>
       <Work/>
       <Contact/>
       <IconToTop/>
