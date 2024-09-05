@@ -16,10 +16,12 @@ const IconToTop = () => { // Changed function name to IconToTop
 
   // Fungsi untuk kembali ke atas
   const scrollToTop = () => {
-    window.scrollTo({
-      top: 0,
-      behavior: "smooth",
-    });
+    setTimeout(() => {
+      window.scrollTo({
+        top: 0,
+        behavior: "smooth",
+      });
+    }, 300);
   };
 
   useEffect(() => {
