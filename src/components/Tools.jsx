@@ -18,8 +18,8 @@ const Tools = () => {
                 <FaFigma className="hover:scale-110 transition-transform duration-300 w-20 h-20 text-[#F24E1E] sm:w-16 sm:h-16" />
                 <RiTailwindCssFill className="hover:scale-110 transition-transform duration-300 w-20 h-20 text-[#38BDF8] sm:w-16 sm:h-16"/>
                 <FaReact className="hover:scale-110 transition-transform duration-300 w-20 h-20 text-[#58C4DC] sm:w-16 sm:h-16" />
-                <FaPhp className="hover:scale-110 transition-transform duration-300 w-20 h-20 text-[#8892BF] sm:w-16 sm:h-16" />
-                <SiMysql className="text-[#F29111] hover:scale-110 transition-transform duration-300 w-20 h-20 sm:w-16 sm:h-16" />
+                <FaPhp className="hover:scale-110 transition-transform duration-300 w-20 h-20 text-[#2c52fd] sm:w-16 sm:h-16" />
+                <SiMysql className="text-[#ff2121] hover:scale-110 transition-transform duration-300 w-20 h-20 sm:w-16 sm:h-16" />
                 <IoLogoJavascript className="text-[#F7DF1E] hover:scale-110 transition-transform duration-300 w-20 h-20 sm:w-16 sm:h-16" />
             </div>
         </div>

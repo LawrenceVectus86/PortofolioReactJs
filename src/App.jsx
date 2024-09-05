@@ -1,4 +1,3 @@
-// import React from 'react'
 import Navbar from "./components/Navbar"
 import Hero from "./components/Hero"
 import Marquee from "./components/Marquee"
@@ -12,7 +11,7 @@ import Tools from "./components/Tools"
 
 const App = () => {
   return (
-    <main className="font-light selection:bg-[#FABC3F] bg-black antialiased selection:text-black">
+    <main className="font-light selection:bg-[#FABC3F] bg-gradient-to-r from-blue-500 to-purple-500 antialiased selection:text-black">
       <Navbar/>
       <Hero/>
       <Marquee/>

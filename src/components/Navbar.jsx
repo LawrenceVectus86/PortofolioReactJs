@@ -55,7 +55,7 @@ const Navbar = () => {
             <ul className="space-y-6 text-3xl">
                 {LINKS.map((link) =>(
                     <motion.li variants={linkvariants} key={link.id}>
-                        <a className="text-5xl lg:text-9xl font-semibold uppercase tracking-wide hover:text-[#FABC3F] transition-all" href={`#${link.id}`} onClick={toggleMenu}>{link.name}</a>
+                        <a className="text-5xl lg:text-7xl font-semibold uppercase tracking-wide hover:text-[#FABC3F] transition-all" href={`#${link.id}`} onClick={toggleMenu}>{link.name}</a>
                     </motion.li>
                 ))}
             </ul>

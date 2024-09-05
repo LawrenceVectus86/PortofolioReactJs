@@ -9,5 +9,5 @@
 }
 
 html {
-  background-color: black;
+  @apply font-light selection:bg-[#FABC3F] bg-gradient-to-r from-blue-500 to-purple-500 antialiased selection:text-black
 }

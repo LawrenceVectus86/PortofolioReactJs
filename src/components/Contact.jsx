@@ -2,7 +2,7 @@ import { CONTACT, SOCIAL_MEDIA_LINKS } from "../constants"
 
 const Contact = () => {
   return (
-    <section id='contact'>
+    <section id='contact' className="font-light selection:bg-[#FABC3F] bg-gradient-to-r from-blue-500 to-purple-500 antialiased selection:text-black">
         <div className="mx-auto max-w-6xl">
             <p className="my-10 text-center text-3xl lg:text-8xl text-white">Interested in Working Together?</p>
             <p className="text-white p-4 text-center text-xl">{CONTACT.text}</p>
