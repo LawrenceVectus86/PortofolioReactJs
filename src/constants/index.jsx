@@ -83,7 +83,7 @@ export const PROJECTS = [
     title: "LinkTree Project",
     description: "Link Social Media with HTML,CSS and JavaScript",
     imgSrc: project5,
-    link: "https://example.com/task-management-tool",
+    link: "https://lawrencevectus86.github.io/My-Link-Web/",
   },
   {
     id: 6,
@@ -91,29 +91,29 @@ export const PROJECTS = [
     description:
       "Link My Portofolio using Website with TailwindCss",
     imgSrc: project6,
-    link: "https://example.com/online-learning-platform",
+    link: "https://lawrencevectus86.github.io/Portofolio-CalvinLawrence/",
   },
   {
     id: 7,
     title: "Use Gemini APi",
     description: "Use Gemini API for Custom Web Analysis Image",
     imgSrc: project7,
-    link: "https://example.com/fitness-tracker",
+    link: "https://calv-ai-with-gemini.vercel.app/",
   },
   {
     id: 8,
-    title: "Recipe App",
-    description: "An app for browsing and saving various cooking recipes.",
+    title: "Netflix Clone",
+    description: "Clone Netflix with ReactJS and API Movies",
     imgSrc: project8,
-    link: "https://example.com/recipe-app",
+    link: "https://netflix-clone-five-lemon-54.vercel.app/",
   },
   {
     id: 9,
-    title: "Weather Dashboard",
+    title: "Link Social Media",
     description:
-      "A weather dashboard providing current weather data and forecasts.",
+      "A Website to link my social media",
     imgSrc: project9,
-    link: "https://example.com/weather-dashboard",
+    link: "https://link-lauw.vercel.app/",
   },
 ];
 
